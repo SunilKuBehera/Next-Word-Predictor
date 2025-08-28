@@ -1,4 +1,4 @@
-# Next-Word-Predictor |
+# Next-Word-Predictor | [LINK](https://next-word-predictor-app.streamlit.app/)
 **Next Word Predictor** is an web app that predicts the next word for a given phrase using an LSTM model trained on Shakespeare's Hamlet.
 
 ## Features
